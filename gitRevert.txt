@@ -1,0 +1,1 @@
+Il est possible d'annuler son commit public avec la commande git revert.
