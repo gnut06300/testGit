@@ -8,7 +8,7 @@
 </head>
 <body>
     <img src="copyrighter.php?image=couchersoleil.jpg" />
-    <img src="copyrighter.php?image=MRO_5839.1_6110188dd5456.jpg" alt="">
-    <img src="copyrighter.php?image=Les_Portes_de_la_Liberte_1280_6110189eaee8f.jpg" alt="">
+    <img src="copyrighter.php?image=MRO_5839.1_6110188dd5456.jpg">
+    <img src="copyrighter.php?image=Les_Portes_de_la_Liberte_1280_6110189eaee8f.jpg">
 </body>
 </html>
