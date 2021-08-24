@@ -30,7 +30,7 @@ if (isset($_POST['texte']))
 <blockquote style="font-size:0.8em">
 <p>
     Je suis un grand [b]débutant[/b], et pourtant j'ai [i]tout appris[/i] sur http://www.openclassrooms.com?page=1&idee=2<br />
-    Je vous [b][color=green]recommande[/color][/b] d'aller sur ce site, vous pourrez apprendre à faire ça [i][color=purple]vous aussi[/color][/i] ! <br>
+    Je vous [b][color=red]recommande[/color][/b] d'aller sur ce site, vous pourrez apprendre à faire ça [i][color=purple]vous aussi[/color][/i] ! <br>
     gnut@gnut.eu <br>
     [u]Texte souligné[/u] ici pas souligné <br>
     [img]https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg[/img]
